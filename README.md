@@ -1,5 +1,7 @@
 # SP Formatter
 
+## IMPORTANT! The main development moved to [PnP repository](https://github.com/pnp/sp-formatter)
+
 [![IMAGE ALT TEXT HERE](app/icons/column-formatter-yt.jpg)](https://www.youtube.com/watch?v=UbTsI73qW7Q)
 
 SP Formatter editor features:
